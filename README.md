@@ -24,11 +24,13 @@ I applied SSCHA to investigate the anomalous isotopic volume effects in ambient-
 
 To overcome the limitations of SSCHA, I recently moved to using Path Integral Molecular Dynamics (PIMD) techniques, enabling an exact treatment of nuclear quantum effects. My group developed a [novel approach](https://pubs.aip.org/aip/jcp/article-abstract/154/22/224108/313340/Probing-anharmonic-phonons-by-quantum-correlators?redirectedFrom=fulltext) for probing anharmonic phonons through quantum displacement-displacement correlators. 
 
-We applied this method to sulfur hydride, one of the most promising candidate for room temperature supeconductivity. We succesfully detected the structural transition between the paraelectric high-pressure phase and the ferroelectric low-pressure phase by looking at the phonon softening computed with our method.
+We applied this method to sulfur hydride, one of the most promising candidate for room temperature supeconductivity. We succesfully detected the structural transition between the paraelectric high-pressure phase and the ferroelectric low-pressure phase by looking at the phonon softening computed with our method. 
 
-![Fig3][figures/H3S.png]
+[Anharmonic phonons repo](https://github.com/marcocherubini/Anharmonic-phonons-post-processing)
 
-![Fig4][figures/Modes.png]
+![Fig3](figures/H3S.png)
+
+![Fig4](figures/Modes.png)
 
 Our [results](https://www.nature.com/articles/s41524-024-01239-0)  demonstrate that the experimental peak in the critical superconducting temperature is not directly linked to the structural phase transition 
 
