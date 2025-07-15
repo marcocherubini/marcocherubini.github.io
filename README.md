@@ -12,7 +12,10 @@ We developed a [method](https://iopscience.iop.org/article/10.1088/1361-648X/ac0
 I focused on the description of the phase diagram of ice in the high-pressure region. In these extreme conditions, ice is stable in the VII, VIII and X phases.
 
 
-![FIg](figures/IceStructures.png)
+![Fig1](figures/IceStructures.png)
 
-I investigated the structural and thermodynamic properties of high-pressure ice using this method, showing how quantum effects change completely the
-classical phase diagram. 
+I investigated the structural and thermodynamic properties of those structures within the SSCHA framework, showing how quantum effects overturn completely the classical phase diagram. [Our results](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.110.014112) show how phase X appears at about 50 GPa, independently of the temperatures, in agreement with the experimental data. 
+
+![Fig2](figures/PD_ice.png)
+
+
