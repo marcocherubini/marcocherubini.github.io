@@ -20,4 +20,12 @@ I investigated the structural and thermodynamic properties of those structures w
 
 I also used the same numerical approach to study [water ice at ambient pressure](https://pubs.aip.org/aip/jcp/article-abstract/155/18/184502/199619/The-microscopic-origin-of-the-anomalous-isotopic?redirectedFrom=fulltext). In this work, I showed how the anomalous volume isotope effects is due to a strong non-linear regime of quantum effects on hydrogen atoms. I detected first a volume expansion followed by a contraction with a maximum located at the mass of tritium approximately. Moreover, within SSCHA, I could reproduce exactrly both the IR and Raman experimental vibrational spectra.
 
+To overcome the limitaion of SSCHA, I recently moved to using path integral molecular dynamics to simulate interesting materials. Within PIMD, it is extremely challenging to compute phonons. My group develope a [method](https://pubs.aip.org/aip/jcp/article-abstract/154/22/224108/313340/Probing-anharmonic-phonons-by-quantum-correlators?redirectedFrom=fulltext) to probe anharmonic phonons by quantum displacement-displacement correlators.
 
+We applied this method to sulfur hydride, one of the most promising room temperature supeconductors. Here, we detected the structural transition between the paraelectric high-pressure phase and the ferroelectric low-pressure phase by looking at the phonon softening computed with our method.
+
+
+
+
+##Publications
+Link to my [Scholar](https://scholar.google.com/citations?user=1t4hEZIAAAAJ&hl=it)
