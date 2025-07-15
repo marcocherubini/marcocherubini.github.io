@@ -2,4 +2,4 @@
 
 
 ## 📄 Download my CV
-[Click here to download my CV (PDF)](CV_cherubini.pdf)
+[Click here to download my CV (PDF)](CV_Cherubini.pdf)
