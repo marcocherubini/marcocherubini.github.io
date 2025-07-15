@@ -3,3 +3,6 @@
 [Click here to download my CV (PDF)](CV_Cherubini.pdf)
 
 ## Research interests
+
+As a computational condensed matter physicist, I focus my research activity in the description of how quantum anharmonicity 
+affects the thermodynamic properties of materials.
