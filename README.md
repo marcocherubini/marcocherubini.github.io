@@ -14,6 +14,5 @@ I focused on the description of the phase diagram of ice in the high-pressure re
 
 ![Descrizione alternativa](figures/IceStructures.pdf)
 
-
 I investigated the structural and thermodynamic properties of high-pressure ice using this method, showing how quantum effects change completely the
 classical phase diagram. 
