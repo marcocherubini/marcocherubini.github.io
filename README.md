@@ -1,6 +1,7 @@
 # Computational Physicist
 
 [Click here to download my CV (PDF)](CV_Cherubini.pdf)
+[Linkedin](linkedin.com/in/marco-cherubini94)
 
 ## Research interests
 
