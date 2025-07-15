@@ -12,7 +12,7 @@ We developed a [method](https://iopscience.iop.org/article/10.1088/1361-648X/ac0
 I focused on the description of the phase diagram of ice in the high-pressure region. In these extreme conditions, ice is stable in the VII, VIII and X phases.
 
 
-
+![Descrizione alternativa](figures/IceStructures.pdf)
 
 
 I investigated the structural and thermodynamic properties of high-pressure ice using this method, showing how quantum effects change completely the
