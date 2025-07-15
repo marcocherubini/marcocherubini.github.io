@@ -14,8 +14,10 @@ I focused on the description of the phase diagram of ice in the high-pressure re
 
 ![Fig1](figures/IceStructures.png)
 
-I investigated the structural and thermodynamic properties of those structures within the SSCHA framework, showing how quantum effects overturn completely the classical phase diagram. [Our results](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.110.014112) show how phase X appears at about 50 GPa, independently of the temperatures, in agreement with the experimental data. 
+I investigated the structural and thermodynamic properties of those structures within the SSCHA framework, showing how quantum effects overturn completely the classical phase diagram. [Our results](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.110.014112) show how phase X appears at about 50 GPa, independently on the temperature, in agreement with the experimental data. 
 
 ![Fig2](figures/PD_ice.png)
+
+I also used the same numerical approach to study [water ice at ambient pressure](https://pubs.aip.org/aip/jcp/article-abstract/155/18/184502/199619/The-microscopic-origin-of-the-anomalous-isotopic?redirectedFrom=fulltext). In this work, I showed how the anomalous volume isotope effects is due to a strong non-linear regime of quantum effects on hydrogen atoms. I detected first a volume expansion followed by a contraction with a maximum located at the mass of tritium approximately. Moreover, within SSCHA, I could reproduce exactrly both the IR and Raman experimental vibrational spectra.
 
 
