@@ -18,7 +18,7 @@ I investigated the high-pressure phase diagram of water ice, where phases VII, V
 
 ![Fig2](figures/PD_ice.png)
 
-### 💧 Anomalous Volume Isotopic Effects in Ambient-Pressure Ice
+### 🧊 Anomalous Volume Isotopic Effects in Ambient-Pressure Ice
 
 I applied SSCHA to investigate the anomalous isotopic volume effects in ambient-pressure ice ([J. Chem. Phys.](https://pubs.aip.org/aip/jcp/article-abstract/155/18/184502/199619/The-microscopic-origin-of-the-anomalous-isotopic?redirectedFrom=fulltext)). In this work, I showed how the anomalous volume isotope effects is due to a strong non-linear regime of quantum effects on hydrogen atoms, resulting in a volume expansion followed by contraction, with a maximum located near tritium mass. Additionally, the vibrational IR and Raman spectra computed with SSCHA reproduced experimental results with high accuracy.
 
